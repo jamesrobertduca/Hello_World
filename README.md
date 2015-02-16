@@ -1,2 +1,2 @@
 # Hello_World
-First Repository
+This Repository was made to learn about GitHub. 
